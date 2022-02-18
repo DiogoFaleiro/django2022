@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(220, 223, 231);
+}
+h1 {
+  color: rgb(30, 22, 30);
+  font-family: Verdana;
+  font-size: 250%;
+  border: 1px solid black;
+}
+p {
+  color: hsla(0, 9%, 4%, 0.877);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 110%;
+  
+a [target=_blank] { font-weight: bold; } 
+
+}
